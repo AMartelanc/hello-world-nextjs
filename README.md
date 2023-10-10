@@ -1,3 +1,22 @@
+- 1ª Aula - Introdução ao Next.js, layout.js e page.js tornados em jsx, criação de páginas e subpáginas post com page.jsx, adição de links para navegar entre as pages, adição de imgs nas pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
